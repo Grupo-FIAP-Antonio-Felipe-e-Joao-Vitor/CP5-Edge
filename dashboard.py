@@ -6,10 +6,10 @@ import requests
 import pytz
 from datetime import datetime
 
-DASH_HOST = "localhost"
+DASH_HOST = "0.0.0.0"
 DASH_PORT = 5000
 
-IP_ADDRESS = "20.46.254.134"
+IP_ADDRESS = "20.118.201.114"
 PORT_STH = 8666
 PORT_IOT_AGENT = 1026
 
